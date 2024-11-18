@@ -32,3 +32,18 @@ Support Vector Machines (SVM)
 
 PROJECT 3 
 
+Customer Churn Prediction
+A machine learning project to predict customer churn for a subscription-based service using historical customer data, including demographics and usage behavior.
+
+Project Overview
+This project uses machine learning algorithms to predict whether a customer will churn (leave the service) or not. The dataset is sourced from Kaggle: Bank Customer Churn Prediction.
+
+Key Features:
+Exploratory Data Analysis (EDA) for understanding data trends.
+Data preprocessing (handling missing values, encoding categorical variables, etc.).
+Implementation of machine learning algorithms:
+Logistic Regression
+Random Forest
+Gradient Boosting
+Model evaluation with metrics like accuracy, precision, recall, and F1-score.
+
